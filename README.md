@@ -97,3 +97,11 @@ Die Technik (abgesehen von Unity) kann man sich im Programmcode angucken. Alle S
 ### vrsezuan2/SezuanUnity/assers/Script/*
 
 Die Scripts sind in C# geschrieben und alles was wichtig ist für die Funktionsweise wurde kommentiert (Kommentare fangen in einer Zeile mit // an)
+
+# Teilnehmer
+- Benedikt Mildenberger
+- Jason (Derulo) Steinkühler
+- Kai Niebes
+- Niclas Schwarzbach
+- Thomas Schiffer
+- Special Guest: Scrumm-Master Stefan Kreinberg
