@@ -76,7 +76,7 @@ Die APK befindet sich in:
 
 ## Hinweis: Projekt wurde mit Unity 5.6.1f gebaut, andere Versionen wurden nicht getestet
 
-Um das Projekt mit Unity zu öffnen, einfach in der Unity-Projektauswahl auf "OPEN"
+Um das Projekt mit Unity zu öffnen, einfach in der Unity-Projektauswahl auf "OPEN" und den *vrsezuan2* (Repository) Ordner auswählen
 ![alt text](https://raw.githubusercontent.com/HeyItsBATMAN/vrsezuan2/master/TutProjekt/projekt%20laden%201.png "Unity Projektmanager")
 Der erste Start kann einige Minuten in Anspruch nehmen. Nach dem Öffnen ist eine leere Szene zu sehen. Um die Sezuan Szene zu öffnen in dem Dateibrowser von Unity in dem Ordner **Assets** einen Doppelklick auf die Szene **VRSezuan** tätigen
 ![alt text](https://raw.githubusercontent.com/HeyItsBATMAN/vrsezuan2/master/TutProjekt/projekt%20laden%202.png "Unity Szene öffnen")
