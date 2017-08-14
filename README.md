@@ -104,4 +104,4 @@ Die Scripts sind in C# geschrieben und alles was wichtig ist für die Funktionsw
 - Kai Niebes
 - Niclas Schwarzbach
 - Thomas Schiffer
-- Special Guest: Scrumm-Master Stefan Kreinberg
+- Special Guest: Scrum-Master Stefan Kreinberg
