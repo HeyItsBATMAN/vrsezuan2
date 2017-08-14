@@ -61,14 +61,21 @@
 ![alt text](https://raw.githubusercontent.com/HeyItsBATMAN/vrsezuan2/master/Screens/Screenshot_2017-07-11-15-26-27.png "VR vor dem Tempel")
 
 
-#Finales Projekt für Abgabe
+# Finales Projekt für Abgabe
+
 Das Repository enthält eine kompilierte Android Version, sowie einen Unity-Projektordner
-##Möglichkeit 1:
+
+## Möglichkeit 1:
+
 Um das Spiel auf Android zu benutzen wird ein Android 6.0 Gerät, sowie ein Bluetooth Controller benötigt.
 Die APK befindet sich in:
+
 ### vrsezuan2/SezuanUnity/VRSezuan.apk
-##Möglichkeit 2:
-##Hinweis: Projekt wurde mit Unity 5.6.1f gebaut, andere Versionen wurden nicht getestet
+
+## Möglichkeit 2:
+
+## Hinweis: Projekt wurde mit Unity 5.6.1f gebaut, andere Versionen wurden nicht getestet
+
 Um das Projekt mit Unity zu öffnen, einfach in der Unity-Projektauswahl auf "OPEN"
 ![alt text](https://raw.githubusercontent.com/HeyItsBATMAN/vrsezuan2/master/TutProjekt/projekt%20laden%201.png "Unity Projektmanager")
 Der erste Start kann einige Minuten in Anspruch nehmen. Nach dem Öffnen ist eine leere Szene zu sehen. Um die Sezuan Szene zu öffnen in dem Dateibrowser von Unity in dem Ordner **Assets** einen Doppelklick auf die Szene **VRSezuan** tätigen
@@ -77,12 +84,16 @@ Der erste Start kann einige Minuten in Anspruch nehmen. Nach dem Öffnen ist ein
 Nachdem die Szene geladen wurde, kann man direkt Play drücken.
 Um das Intro zu aktivieren, kann man in der Unity-Hierarchie das Objekt **"GameHandler"** auswählen und die Checkbox bei **Intro Played** rausnehmen
 
-##Was gibt es zu entdecken?
+## Was gibt es zu entdecken?
+
 Zwei von den Gebäuden kann man betreten: den Tempel und an der Seite vom Platz das größere Haus mit dem grünen Dach.
 Außerdem ist abhängig davon wo man sich auf der Karte befindet ein anderes Theme zu hören. Das Theme das im Tempel läuft wurde von unserem Gruppenmitglied Thomas Schiffer komponiert und eingespielt.
 Einige verschiedene Geräusche gibt es zu entdecken. Die größte Soundkulisse kann man beim Fischerhaus hören.
 
-##Wie funktioniert das ganze?
+## Wie funktioniert das Ganze?
+
 Die Technik (abgesehen von Unity) kann man sich im Programmcode angucken. Alle Script-Dateien befinden sich in:
+
 ### vrsezuan2/SezuanUnity/assers/Script/*
+
 Die Scripts sind in C# geschrieben und alles was wichtig ist für die Funktionsweise wurde kommentiert (Kommentare fangen in einer Zeile mit // an)
